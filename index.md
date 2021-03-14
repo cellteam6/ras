@@ -1,7 +1,0 @@
-## ALK Pathway
-
-Anaplastic lymphoma kinase (ALK) is an enzyme that is encoded by the ALK gene in humans. Discovered in 1994, it was first identified as a receptor tyrosine kinase in a chromosomal translocation associated with some anaplastic large cell lymphomas(ALCL), where ALK takes its name. ALK was described as a fusion partner, and almost 70~80% of ALK-positive ALCL express the NPM–ALK which is an amino-terminal fusion derived from the nucleophosmin (NPM) protein. NPM itself has multiple functions including the transport of pre-ribosomal particles and ribosome biogenesis, regulation of cell division, DNA repair, transcription and genomic stability, playing a postulated role as either an oncogene or a tumor suppressor depending on its level of expression. NPM-ALK would prove to be the first of many ALK fusion proteins to be described in a wide range of cancer types. In addition to NPM–ALK, other fusions involving ALK include TFG, TPM3 and TPM4, as well as non-nuclear ALK fusion chimeras ATIC, CLTCL1 and moesin.
-
-### Ras GTPase
-
-Ras is a family of related proteins which is expressed in all animal cell lineages and organs. All Ras protein family members belong to a class of protein called small GTPase, and are involved in transmitting signals within cells (cellular signal transduction). Ras is the prototypical member of the Ras superfamily of proteins, which are all related in 3D structure and regulate diverse cell behaviours.
