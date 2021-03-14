@@ -1,37 +1,7 @@
-## Welcome to GitHub Pages
+## ALK Pathway
 
-You can use the [editor on GitHub](https://github.com/cellteam6/ras/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+Anaplastic lymphoma kinase (ALK) is an enzyme that is encoded by the ALK gene in humans. Discovered in 1994, it was first identified as a receptor tyrosine kinase in a chromosomal translocation associated with some anaplastic large cell lymphomas(ALCL), where ALK takes its name. ALK was described as a fusion partner, and almost 70~80% of ALK-positive ALCL express the NPM–ALK which is an amino-terminal fusion derived from the nucleophosmin (NPM) protein. NPM itself has multiple functions including the transport of pre-ribosomal particles and ribosome biogenesis, regulation of cell division, DNA repair, transcription and genomic stability, playing a postulated role as either an oncogene or a tumor suppressor depending on its level of expression. NPM-ALK would prove to be the first of many ALK fusion proteins to be described in a wide range of cancer types. In addition to NPM–ALK, other fusions involving ALK include TFG, TPM3 and TPM4, as well as non-nuclear ALK fusion chimeras ATIC, CLTCL1 and moesin.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Ras GTPase
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/cellteam6/ras/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+Ras is a family of related proteins which is expressed in all animal cell lineages and organs. All Ras protein family members belong to a class of protein called small GTPase, and are involved in transmitting signals within cells (cellular signal transduction). Ras is the prototypical member of the Ras superfamily of proteins, which are all related in 3D structure and regulate diverse cell behaviours.
